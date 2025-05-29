@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "marca": "Yamaha",
+    "modelo": "MT-07",
+    "cilindrada": 689
+  },
+  {
+    "id": 2,
+    "marca": "Kawasaki",
+    "modelo": "Z900",
+    "cilindrada": 948
+  },
+  {
+    "id": 3,
+    "marca": "Honda",
+    "modelo": "CB500F",
+    "cilindrada": 471
+  },
+  {
+    "id": 4,
+    "marca": "Suzuki",
+    "modelo": "GSX-S750",
+    "cilindrada": 749
+  },
+  {
+    "id": 5,
+    "marca": "Ducati",
+    "modelo": "Monster 821",
+    "cilindrada": 821
+  },
+  {
+    "id": 6,
+    "marca": "BMW",
+    "modelo": "F800R",
+    "cilindrada": 798
+  }
+]
